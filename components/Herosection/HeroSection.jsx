@@ -1,5 +1,5 @@
 import React from "react";
-import "./herosection.css";
+// import "./herosection.css";
 
 export default function HeroSection() {
   const images = [
